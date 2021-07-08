@@ -130,6 +130,6 @@ body {
   background: #fe9daa;
   border-radius: 5px;
   height: 100%;
-  width: 10%;
+  width: 0;
   transition: width 0.1s linear;
 }
